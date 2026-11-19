@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.cs text diff=csharp
+*.unity binary
+*.prefab binary
+*.asset binary
+*.mat binary
+*.fbx binary
+*.obj binary
+*.png binary
+*.jpg binary
+*.tga binary
+*.psd binary
+*.wav binary
+*.mp3 binary

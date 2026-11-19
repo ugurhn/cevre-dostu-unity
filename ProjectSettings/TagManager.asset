@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - GrassGround
+  - SandGround
+  - Trash
+  - Water
+  - Machine
+  - Musilaj
+  - Socket
+  - Fire
+  - AsphaltGround
+  - saverloader
+  - announcementtext
+  - MusilajMachine
+  - GeneratorMachine
+  - GasMachine
+  - Button
+  - Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Gun
+  - Jenerator
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Machine
+  - SandLayer
+  - GrassLayer
+  - AsphaltLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
